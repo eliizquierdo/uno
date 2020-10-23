@@ -1,3 +1,7 @@
+//Clase Main que llama a otra clase dentro de un paquete. 
+//Guardado en GitHub
+//funcionando
+
 import logica.Alumno;
 
 public class Main {
